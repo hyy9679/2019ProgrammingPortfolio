@@ -1,6 +1,5 @@
-## Welcome to Haru Y.'s Programming Portfolio
-2019
-
+## 2019 Programming 1 Portfolio
+By Haru Yoo
 jiyoyoo9679@granitesd.org
 
 ## First Semester Processing Calculator
